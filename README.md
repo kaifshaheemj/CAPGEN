@@ -29,7 +29,7 @@ To run the application locally:
 1. Clone the repository:
 
     ```bash
-    [git clone https://github.com/your-username/image-captioning.git](https://github.com/harish-123445/CaptionCraft.git)
+    ([https://github.com/harish-123445/CaptionCraft.git](https://github.com/kaifshaheemj/CAPGEN.git))
     ```
 
 
